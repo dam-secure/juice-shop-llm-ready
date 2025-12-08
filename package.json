@@ -23,9 +23,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patrickcollins12/juice-shop-llm-ready.git"
+    "url": "git+https://github.com/dam-secure/juice-shop-llm-ready.git"
   },
-  "homepage": "https://github.com/patrickcollins12/juice-shop-llm-ready#readme",
+  "homepage": "https://github.com/dam-secure/juice-shop-llm-ready#readme",
   "engines": {
     "node": ">=16.0.0"
   }
