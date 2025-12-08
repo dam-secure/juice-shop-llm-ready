@@ -1,0 +1,33 @@
+{
+  "name": "juice-shop-llm-ready",
+  "version": "1.0.0",
+  "description": "Strip comments and documentation from OWASP Juice Shop to create an LLM-friendly codebase",
+  "main": "index.js",
+  "bin": {
+    "juice-shop-llm-ready": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node bin/cli.js --help"
+  },
+  "keywords": [
+    "juice-shop",
+    "owasp",
+    "llm",
+    "ai",
+    "comments",
+    "strip",
+    "security",
+    "training"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/juice-shop-llm-ready.git"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/juice-shop-llm-ready#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+
